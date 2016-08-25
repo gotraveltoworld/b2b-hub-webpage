@@ -1,2 +1,1 @@
-# b2b-hub-webpage
-Foundation template for b2b hub service. 
+# vueJS 前端基礎樣板
