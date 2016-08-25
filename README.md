@@ -1,1 +1,1 @@
-# vueJS 前端基礎樣板
+# Use vuesj to build b2b hub foundation page style.
